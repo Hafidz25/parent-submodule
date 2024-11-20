@@ -1,0 +1,3 @@
+[submodule "client1"]
+	path = client1
+	url = https://github.com/Hafidz25/child-submodule.git
